@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        { 
+            "type": "command",
+            "name": "curl example",
+            "program": "curl",
+            "args": ["-H", "Header:value", "localhost:8080"]
+        }
+    ]
+}
